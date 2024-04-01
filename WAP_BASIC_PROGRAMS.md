@@ -350,7 +350,6 @@
     Example:
     Input: Radius = 5
     Output: Perimeter = 31.42
-Certainly! Let's continue with more programming questions and examples:
 
 71. Write a program that checks if a given string is a valid URL.
     Example:
@@ -561,7 +560,7 @@ Of course! Here are more programming questions with examples:
     Input: Edge length = 5
     Output: Area = 43.3
 
-Certainly! Here are more programming questions along with examples:
+
 
 111. Develop a program that calculates the sum of all divisors of a given number.
     Example:
@@ -662,8 +661,6 @@ Certainly! Here are more programming questions along with examples:
     Example:
     Input: Side length = 7
     Output: Area = 382.72
-
-Certainly! Let's continue with more programming questions and examples:
 
 131. Write a program that calculates the sum of all prime numbers within a specified range.
     Example:
